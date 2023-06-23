@@ -14,14 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&size=25&duration=1000&pause=1500&color=6D34A4&center=true&vCenter=true&multiline=true&width=800&height=200&lines=I+come+from+the+School+of+Physics+at+Shandong+University.;Unisciti+a+me+per+una+corsa+sotto+le+stelle!)](https://git.io/typing-svg)
-
-
-
-
-
-
-
-
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&size=25&duration=1000&pause=1500&color=4E2DA4&center=true&vCenter=true&multiline=true&width=800&height=150&lines=I+come+from+the+School+of+Physics+at+Shandong+University.;I+enjoy+astronomy%2C+symphonic+music%2C+and+reading+poetry.;Unisciti+a+me+per+una+corsa+sotto+le+stelle!)](https://git.io/typing-svg)
